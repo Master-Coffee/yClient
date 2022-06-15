@@ -1,0 +1,1 @@
+last stable react-dashboard
